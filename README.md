@@ -15,7 +15,6 @@ In this lab, we used Okta to automate identity lifecycle and application access 
 - Okta Identity Cloud
 - Okta Universal Directory
 - Okta Group Rules
-- Okta Expression Language
 - Lifecycle Management
 - SAML 2.0
 - Single Sign-On (SSO)
